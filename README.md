@@ -10,7 +10,7 @@ https://apricotwtf.itch.io/vr-touhou-reiijukan-virtual-responsive-to-reality
 
 2. Download Unity Editor 2019.4.9f1
 
-3. Download the assets through out git link : Geoodees/Touhou-Reiijukan-Virtual-Responsive-to-Reality: VR Experience for HTC Vive with destructable enviroment (github.com)
+3. Clone this repository
 
 4. Open up "Eizi Scene" Unity scene.
 
