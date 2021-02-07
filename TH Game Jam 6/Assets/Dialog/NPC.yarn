@@ -1,0 +1,55 @@
+title: NPC
+tags:
+---
+<<if ($random) == 1>>
+	NPC: Oh noes! Let me have fun! #line:04cf446
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 5>>
+	NPC: What a big ball? Have I drunk this much? #line:0cdcea2
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 10>>
+	NPC: AAaaaah! Ruun! #line:06a58b4
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 15>>
+	NPC: What's wrong with you? #line:0c7450c
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 20>>
+	NPC: I just wanted to have some fun! I'm out! #line:0ef85d9
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 25>>
+	NPC: Oof! #line:0320d07
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 30>>
+	NPC: Oh come on! I have invested so much in that festival! #line:0f3f302
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 45>>
+	NPC: Guess the party is over, now! #line:0c0eb5f
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 50>>
+	NPC: Let me go! Let me go! #line:0590790
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 55>>
+	NPC: Leave me alone! #line:03aa523
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 60>>
+	NPC: Oow, that hurts like a hungover... #line:0b34133
+	<<wait 5>>
+	<<stop>>
+<<elseif ($random) == 65>>
+	NPC: My noodles! Oh my god, my noodles... #line:010e311
+	<<wait 5>>
+	<<stop>>
+<<else>>
+	<<stop>>
+<<endif>>
+===

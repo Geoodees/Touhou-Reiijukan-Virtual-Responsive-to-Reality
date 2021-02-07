@@ -1,0 +1,25 @@
+title: NewYarnScript
+tags:
+---
+Reimu Hakurei: Oh you are here. I'm surprised to not see autumn leaves...  #line:0ef174c
+	<<wait 5>>
+Reimu Hakurei: The smell of alcohool and potatoes is omnipresent #line:0e5a2cb
+	<<wait 5>>
+Reimu Hakurei: Why haven't you stopped distributions sooner? #line:06c2f65
+	<<wait 5>>
+Shizuha Aki: Autumn leaves... That would have been a good idea #line:014317f
+	<<wait 5>>
+Shizuha Aki: But we're in spring, so that's not the time! #line:0b2d492
+	<<wait 5>>
+Reimu Hakurei: That's still that... #line:037a7e2
+	<<wait 5>>
+Minoriko Aki: But people have fun! #line:01e384e
+	<<wait 5>>
+Minoriko Aki: And how come you don't like the smell of potatoes? #line:0e1df45
+	<<wait 5>>
+Reimu Hakurei: Too much is too much! #line:0dc82ad
+	<<wait 5>>
+Reimu Hakurei: I will definitely close your business tonight! #line:0eb5bbf
+	<<wait 5>>
+	<<stop>>
+===

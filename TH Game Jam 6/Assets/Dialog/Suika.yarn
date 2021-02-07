@@ -1,0 +1,27 @@
+title: Suika
+tags:
+---
+Suika Ibuki: Hooooï! You hothead! Come play a lil'! #line:0d3579c
+	<<wait 5>>
+Reimu Hakurei: No thank you #line:0f7205b
+	<<wait 5>>
+Suika Ibuki: I knew you don't know how to have fuuun! #line:0f7593b
+	<<wait 5>>
+Reimu Hakurei: Don't. Begin. #line:06eb0ca
+	<<wait 5>>
+Suika Ibuki: It's you who's stopping the fun, ya know? You began! #line:09ea568
+	<<wait 5>>
+Reimu Hakurei: Shhhh... How come you are so annoying... #line:078dfca
+	<<wait 5>>
+Suika Ibuki: Heh, that's not me who is ruining the mood! #line:099a25c
+	<<wait 5>>
+Suika Ibuki: Hahahahahah! #line:00299c9
+	<<wait 5>>
+Reimu Hakurei: You deserved it! #line:0678e1c
+	<<wait 5>>
+Suika Ibuki: Come, I wait for ya! #line:078d2c1
+	<<wait 5>>
+Reimu Hakurei: Don't wait for me, I will be here soon enough... #line:032a710
+	<<wait 5>>
+	<<stop>>
+===

@@ -1,0 +1,25 @@
+title: Mystia
+tags: 
+---
+Reimu Hakurei: All those smells... How could you survive with that? #line:01b3570
+	<<wait 5>>
+Reimu Hakurei: I'm disgusted now! #line:05da989
+	<<wait 5>>
+Mystia Lorelei: Hey! Don't judge my food before eating it! #line:086e763
+	<<wait 5>>
+Reimu Hakurei: No thanks #line:07175d0
+	<<wait 5>>
+Mystia Lorelei: I have never tasted you but today you taste pretty sour #line:0b34739
+	<<wait 5>>
+Mystia Lorelei: Let us have fun! #line:0f8465d
+	<<wait 5>>
+Reimu Hakurei: Me? Sour? I will show you what's sour! #line:006359d
+	<<wait 5>>
+Mystia Lorelei: So you want fight, heh? #line:03d97a7
+	<<wait 5>>
+Mystia Lorelei: It's a story about a sparrow and an angry shrine maiden ♫ #line:0e03b49
+	<<wait 5>>
+Reimu Hakurei: You drive me crazy, I will make you eat your words... #line:0392712
+	<<wait 5>>
+	<<stop>>
+===

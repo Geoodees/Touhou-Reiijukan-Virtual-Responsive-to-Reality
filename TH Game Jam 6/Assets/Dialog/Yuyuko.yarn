@@ -1,0 +1,33 @@
+title: Yuyuko
+tags:
+---
+Reimu Hakurei: Well, well, well... I'm not surprised to find you here #line:05ab207
+	<<wait 5>>
+Reimu Hakurei: Even if you're not a ghost, you should watch your weight #line:00f29be
+	<<wait 5>>
+Yuyuko Saigyouji: Oh, hello there! I appreciate your concern! #line:0c1c0de
+	<<wait 5>>
+Yuyuko Saigyouji: Don't worry, I'll be fine. #line:007f85a
+	<<wait 5>>
+Yuyuko Saigyouji: You should watch yourself, always crisped... #line:0aec1fc
+	<<wait 5>>
+Reimu Hakurei: For what reason! This night has been a pain... #line:04a6fb0
+	<<wait 5>>
+Reimu Hakurei: I cannot sleep, this festival has gone throughout all the night! #line:0a00f53
+	<<wait 5>>
+Yuyuko Saigyouji: Then you should have played with us all long! #line:0215cb4
+	<<wait 5>>
+Reimu Hakurei: I need sleep to protect Gensokyo. #line:03681bf
+	<<wait 5>>
+Yuyuko Saigyouji: You should protect your mood! #line:0ca89af
+	<<wait 5>>
+Reimu Hakurei: Thank you, but I won't protect Gensokyo out of sheer happiness #line:04c6bf7
+	<<wait 5>>
+Yuyuko Saigyouji: Too bad. I still want to have some fun, though. #line:00b5e9c
+	<<wait 5>>
+Yuyuko Saigyouji: I can't let you stop this festival yet. #line:0d8cf83
+	<<wait 5>>
+Reimu Hakurei: I will try, nonetheless. #line:05aff3e
+	<<wait 5>>
+	<<stop>>
+===

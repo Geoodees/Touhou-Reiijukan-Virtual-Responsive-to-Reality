@@ -1,0 +1,41 @@
+﻿title: Yukari
+tags:
+---
+Yukari Yakumo: Oh Hello there #line:02b2353
+	<<wait 5>>
+Reimu Hakurei: Lady Yakumo... #line:09fa871
+	<<wait 5>>
+Reimu Hakurei: I'm pretty sure you are behind this party... #line:00e0af8
+	<<wait 5>>
+Yukari Yakumo: That's right. So much fun, right? #line:02148a9
+	<<wait 5>>
+Reimu Hakurei: I will stop you, you are annoying me for way too long... #line:07b4a16
+	<<wait 5>>
+Yukari Yakumo: You may yeet more yankees, but may I use your ball? #line:0a4ea58
+	<<wait 5>>
+Yukari Yakumo: An alliteration, or sound combo for you. #line:024aba6
+	<<wait 5>>
+Yukari Yakumo: Since you do neat combos with your balls, I can do the same with words #line:080c78b
+	<<wait 5>>
+Yukari Yakumo: Right? #line:043b4e0
+	<<wait 5>>
+Reimu Hakurei: Heh... Come and taste my ball! #line:05d4cef
+	<<wait 5>>
+Yukari Yakumo: Your ball... A rock, a stone, a dust... Let me show it to you. #line:088d7b5
+	<<wait 5>>
+Yukari Yakumo: gradation now! #line:0a1dd8a
+	<<wait 5>>
+Yukari Yakumo: I will happily continue to play with you! #line:0381a8c
+	<<wait 5>>
+Reimu Hakurei: You won't stop me! It's over now! #line:00a525f
+	<<wait 5>>
+Yukari Yakumo: You are an annoying fun, you know! #line:08a51ec
+	<<wait 5>>
+Yukari Yakumo: Oxymore! #line:08fc708
+	<<wait 5>>
+Reimu Hakurei: Darn! Stop it with your word combos! #line:07a1c94
+	<<wait 5>>
+Reimu Hakurei: Taste my ball combos instead! #line:044966e
+	<<wait 5>>
+	<<Stop>>
+===

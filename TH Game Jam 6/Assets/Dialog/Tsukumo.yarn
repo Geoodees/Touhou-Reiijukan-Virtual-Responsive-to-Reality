@@ -1,0 +1,23 @@
+title: Tsukumo
+tags:
+---
+Reimu Hakurei: This music is getting on my nerves #line:0d6651e
+	<<wait 5>>
+Benben Tsukumo: You don't like it? #line:0ecc2ea
+	<<wait 5>>
+Yatsuhashi Tsukumo: May we play something else? #line:0511873
+	<<wait 5>>
+Reimu Hakurei: No, no and no! You're giving me headache... #line:0c3884d
+	<<wait 5>>
+Yatsuhashi Tsukumo: Then drink a bit #line:02e9983
+	<<wait 5>>
+Benben Tsukumo: You'll feel better then #line:06e157b
+	<<wait 5>>
+Yatsuhashi Tsukumo: And enjoy our music! #line:03e3b61
+	<<wait 5>>
+Reimu Hakurei: Tch, even if you play some good combos, #line:0c45411
+	<<wait 5>>
+Reimu Hakurei: I will show you that silence is golden! #line:00ed450
+	<<wait 5>>
+	<<stop>>
+===
